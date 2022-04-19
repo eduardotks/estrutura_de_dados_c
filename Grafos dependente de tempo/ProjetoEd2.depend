@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1632513647 source:c:\users\duh tk\documents\codeblocks project\projetoed2\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1632513405 c:\users\duh tk\documents\codeblocks project\projetoed2\fila.h
+	"no.h"
+
+1632405074 c:\users\duh tk\documents\codeblocks project\projetoed2\no.h
+
+1632522253 source:c:\users\duh tk\documents\codeblocks project\projetoed2\grafo.c
+	"grafo.h"
+	"fila.h"
+	"no.h"
+	<stdlib.h>
+	<stdio.h>
+
+1632519232 c:\users\duh tk\documents\codeblocks project\projetoed2\grafo.h
+	"fila.h"
+
+1632519630 source:c:\users\duh tk\documents\codeblocks project\projetoed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+	<locale.h>
+

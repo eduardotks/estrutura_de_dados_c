@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1607883716 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo\imm\main.c
+	"TFile.h"
+	"TMatriz.h"
+
+1607887488 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo\imm\tfile.c
+	"TFile.h"
+
+1607887437 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo\imm\tmatriz.c
+	"TMatriz.h"
+
+1607563131 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo\imm\tstack.c
+	"TStack.h"
+
+1607885310 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo\imm\tfile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TMatriz.h"
+	"TStack.h"
+	"Point.h"
+
+1607887262 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo\imm\tmatriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1606684659 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo\imm\tstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Point.h"
+
+1607563131 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo\imm\point.h
+
+1607098613 source:c:\users\jocival dias\desktop\trabalho final ed1 bruno travencolo\imm\main.c
+	"TFile.h"
+	"TMatriz.h"
+
+1606684679 c:\users\jocival dias\desktop\trabalho final ed1 bruno travencolo\imm\tfile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TMatriz.h"
+	"TStack.h"
+	"Point.h"
+
+1606684567 c:\users\jocival dias\desktop\trabalho final ed1 bruno travencolo\imm\tmatriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1606684659 c:\users\jocival dias\desktop\trabalho final ed1 bruno travencolo\imm\tstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Point.h"
+
+1607099867 c:\users\jocival dias\desktop\trabalho final ed1 bruno travencolo\imm\point.h
+
+1607127662 source:c:\users\jocival dias\desktop\trabalho final ed1 bruno travencolo\imm\tfile.c
+	"TFile.h"
+
+1607099813 source:c:\users\jocival dias\desktop\trabalho final ed1 bruno travencolo\imm\tmatriz.c
+	"TMatriz.h"
+
+1607099860 source:c:\users\jocival dias\desktop\trabalho final ed1 bruno travencolo\imm\tstack.c
+	"TStack.h"
+
+1607098613 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\main.c
+	"TFile.h"
+	"TMatriz.h"
+
+1606684679 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tfile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TMatriz.h"
+	"TStack.h"
+	"Point.h"
+
+1606684567 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tmatriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1606684659 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Point.h"
+
+1607099867 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\point.h
+
+1607384525 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tmatriz.c
+	"TMatriz.h"
+
+1607099860 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tstack.c
+	"TStack.h"
+
+1607127714 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tfile.c
+	"TFile.h"
+
+1607563178 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\main.c
+	"TFile.h"
+	"TMatriz.h"
+	<locale.h>
+
+1606684679 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tfile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TMatriz.h"
+	"TStack.h"
+	"Point.h"
+
+1606684567 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tmatriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1606684659 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Point.h"
+
+1607563131 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\point.h
+
+1607563131 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tstack.c
+	"TStack.h"
+
+1607564194 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tfile.c
+	"TFile.h"
+
+1607563131 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tmatriz.c
+	"TMatriz.h"
+
+1607641245 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\main.c
+	"TFile.h"
+	"TMatriz.h"
+
+1607642304 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tfile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TMatriz.h"
+	"TStack.h"
+	"Point.h"
+
+1606684567 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tmatriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1606684659 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Point.h"
+
+1607563131 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\point.h
+
+1607641372 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tfile.c
+	"TFile.h"
+
+1607563131 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tmatriz.c
+	"TMatriz.h"
+
+1607563131 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo (1)\trabalho final ed1 bruno travencolo\imm\tstack.c
+	"TStack.h"
+
+1607883716 source:c:\users\developer\desktop\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\main.c
+	"TFile.h"
+	"TMatriz.h"
+
+1608222203 c:\users\developer\desktop\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tfile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TMatriz.h"
+	"TStack.h"
+	"Point.h"
+
+1608222070 c:\users\developer\desktop\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tmatriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1606684659 c:\users\developer\desktop\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Point.h"
+
+1607563131 c:\users\developer\desktop\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\point.h
+
+1608222450 source:c:\users\developer\desktop\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tfile.c
+	"TFile.h"
+
+1608221251 source:c:\users\developer\desktop\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tmatriz.c
+	"TMatriz.h"
+
+1607563131 source:c:\users\developer\desktop\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tstack.c
+	"TStack.h"
+
+1608254420 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\main.c
+	"TFile.h"
+	"TMatriz.h"
+
+1608222203 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tfile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TMatriz.h"
+	"TStack.h"
+	"Point.h"
+
+1608222070 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tmatriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1606684659 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Point.h"
+
+1607563131 c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\point.h
+
+1608254044 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tfile.c
+	"TFile.h"
+
+1608254128 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tmatriz.c
+	"TMatriz.h"
+
+1608254387 source:c:\users\spectrus\desktop\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo v4\trabalho final ed1 bruno travencolo\trabalho final ed1 bruno travencolo\imm\tstack.c
+	"TStack.h"
+
